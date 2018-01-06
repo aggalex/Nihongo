@@ -1,0 +1,14 @@
+Source: Nihongo
+Section: x11
+Priority: extra
+Maintainer: Alex Angelou <ubuntu1aggelalex@gmail.com>
+Build-Depends: cmake (>= 2.8),
+               debhelper (>= 9),
+               libgtk-3-dev,
+Standards-Version: 3.9.3
+
+Package: cmake-hello-world
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Nihongo Japanese Input
+  A simple app to help users input Japanese Kana/Kanji designed for elementary OS
