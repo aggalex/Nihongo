@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=Nihongo
+Comment=Useful application for Japanese kanji & kana input
+GenericName=Japanese Input
+StartupWMClass=com.github.aggalex.nihongo
+Exec=com.github.aggalex.nihongo
+Icon=nihongo
+Terminal=false
+Categories=GNOME;GTK;Utility;
+Keywords=Input;Japanese;Type;Kanji;Hiragana;Katakana;Kana;
+X-GNOME-Keywords=Input;Japanese;Type;Kanji;Hiragana;Katakana;Kana;
+StartupNotify=true
+X-GNOME-Gettext-Domain=Nihongo

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Your Name <you@email.com> -->
+<component type="desktop">
+  <id>com.github.aggalex.nihongo.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Nihongo</name>
+  <summary>Useful application for Japanese kanji & kana input</summary>
+  <description>
+    <h3>How to use</h3>
+    <p>Type small latin/romaji to input hiragana, and capital latin/romaji to input katakana. Search for kanji using their romaji pronounciation on the entry top right and find the kanji you want in the list below.</p>
+    <h3>Key features</h3>
+    <p>Simple, beautiful design, fast performance and more than 10000 kanji to chose from.</p>
+  </description>
+  <custom>
+    <value key="x-appcenter-color-primary">#FFDBDB</value>
+    <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+    <value key="x-appcenter-suggested-price">3</value>
+  </custom>
+</component>
