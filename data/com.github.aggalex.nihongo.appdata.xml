@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright 2017 Your Name <you@email.com> -->
+<!-- Copyright 2017 Alex Angelou <ubuntu1aggelalex@gmail.com> -->
 <component type="desktop">
   <id>com.github.aggalex.nihongo.desktop</id>
   <metadata_license>CC0</metadata_license>
   <name>Nihongo</name>
+  <developer_name>Alex Angelou</developer_name>
   <summary>Useful application for Japanese kanji & kana input</summary>
   <description>
     <h3>How to use</h3>
