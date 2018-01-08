@@ -67,7 +67,7 @@ class main_window(Gtk.Window):
     TextView.set_name("TextView")
     TextView.set_wrap_mode(Gtk.WrapMode.WORD)
     PageScroll.add(TextView)
-    PageScroll.set_margin_top(0)
+    PageScroll.set_margin_top(12)
     PageScroll.set_margin_bottom(12)
     PageScroll.set_margin_left(12)
     PageScroll.set_margin_right(12)
